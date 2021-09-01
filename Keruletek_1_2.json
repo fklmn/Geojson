@@ -1,16 +1,25 @@
-{​​​​​​
+{
   "type": "FeatureCollection",
   "features": [
-    {​​​​​​
+    {
       "type": "Feature",
-      "properties": {​​​​​​
-        "District_2": "Budapest I.",
-      }​​​​​​,
-      "geometry": {​​​​​​
+      "properties": {
+        "name": "Budapest I. kerület",
+        "type": "district",
+        "type:hu": "járás",
+        "ksh": "001",
+        "osm_id": "221984",
+        "parent": {
+          "name": "Budapest",
+          "type": "county",
+          "type:hu": "megye",
+          "ksh": "01",
+          "osm_id": "1244004"
+        }
+      },
+      "geometry": {
         "type": "MultiPolygon",
-        "coordinates": [
-          [
-		  [
+        "coordinates": [[[
 [19.0237324, 47.4955698],
 [19.0237383, 47.4956111],
 [19.0237567, 47.4957388],
@@ -169,20 +178,33 @@
 [19.0241313, 47.4950979],
 [19.0237937, 47.4950521],
 [19.0237324, 47.4955698]
-          ]
-		  ]
-        ]
-      }​​​​​​
-    }​​​​​​,
-    {​​​​​​
+        ]]]
+      }
+    }
+  ]
+}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
       "type": "Feature",
-      "properties": {​​​​​​
-        "district_2": "Budapest II.",
-      }​​​​​​,
-      "geometry": {​​​​​​
-        "type":  "MultiPolygon",
-        "coordinates": [[
-          [
+      "properties": {
+        "name": "Budapest II. kerület",
+        "type": "district",
+        "type:hu": "járás",
+        "ksh": "002",
+        "osm_id": "221980",
+        "parent": {
+          "name": "Budapest",
+          "type": "county",
+          "type:hu": "megye",
+          "ksh": "01",
+          "osm_id": "1244004"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[
 [18.9261659, 47.5434524],
 [18.9297897, 47.5418332],
 [18.9307516, 47.5421605],
@@ -633,12 +655,8 @@
 [18.9305149, 47.5456707],
 [18.9294222, 47.5448352],
 [18.9261659, 47.5434524]
-          ]
-		  ]
-        ]
-      }​​​​​​
-    }​​​​​​
+        ]]]
+      }
+    }
   ]
-}​​​​​​
-
-
+}
