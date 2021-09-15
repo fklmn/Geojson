@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest I.",
+      "properties": {        "district":"I",
         "type": "district",
         "type:hu": "járás",
         "ksh": "001",
@@ -182,7 +182,7 @@
     },
     {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest II.",
+      "properties": {        "district":"II",
         "type": "district",
         "type:hu": "járás",
         "ksh": "002",
@@ -653,7 +653,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest III.",
+      "properties": {        "district":"III",
         "type": "district",
         "type:hu": "járás",
         "ksh": "003",
@@ -1010,7 +1010,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest IV.",
+      "properties": {        "district":"IV",
         "type": "district",
         "type:hu": "járás",
         "ksh": "004",
@@ -1113,7 +1113,7 @@
     },
 {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest V.",
+      "properties": {        "district":"V",
         "type": "district",
         "type:hu": "járás",
         "ksh": "005",
@@ -1226,7 +1226,7 @@
     },
 {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest VI.",
+      "properties": {        "district":"VI",
         "type": "district",
         "type:hu": "járás",
         "ksh": "006",
@@ -1382,7 +1382,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest VII.",
+      "properties": {        "district":"VII",
         "type": "district",
         "type:hu": "járás",
         "ksh": "007",
@@ -1505,7 +1505,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest VIII.",
+      "properties": {        "district":"VIII",
         "type": "district",
         "type:hu": "járás",
         "ksh": "008",
@@ -1650,7 +1650,7 @@
 	 {
       "type": "Feature",
       "properties": {        
-	  "district_2":"Budapest IX.",
+	  "district":"IX",
         "type": "district",
         "type:hu": "járás",
         "ksh": "009",
@@ -1807,7 +1807,7 @@
     },
 	 {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest X.",
+      "properties": {        "district":"X",
         "type": "district",
         "type:hu": "járás",
         "ksh": "010",
@@ -1905,7 +1905,7 @@
     },
 	 {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XI.",
+      "properties": {        "district":"XI",
         "type": "district",
         "type:hu": "járás",
         "ksh": "011",
@@ -2587,7 +2587,7 @@
     },
 	 {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XII.",
+      "properties": {        "district":"XII",
         "type": "district",
         "type:hu": "járás",
         "ksh": "012",
@@ -3225,7 +3225,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XIII.",
+      "properties": {        "district":"XIII",
         "type": "district",
         "type:hu": "járás",
         "ksh": "013",
@@ -3342,7 +3342,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XIV.",
+      "properties": {        "district":"XIV",
         "type": "district",
         "type:hu": "járás",
         "ksh": "014",
@@ -3475,7 +3475,7 @@
     },
 	 {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XV.",
+      "properties": {        "district":"XV",
         "type": "district",
         "type:hu": "járás",
         "ksh": "015",
@@ -3585,7 +3585,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XVI.",
+      "properties": {        "district":"XVI",
         "type": "district",
         "type:hu": "járás",
         "ksh": "016",
@@ -3671,7 +3671,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XVII.",
+      "properties": {        "district":"XVII",
         "type": "district",
         "type:hu": "járás",
         "ksh": "017",
@@ -3813,7 +3813,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XVIII.",
+      "properties": {        "district":"XVIII",
         "type": "district",
         "type:hu": "járás",
         "ksh": "018",
@@ -3986,7 +3986,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XIX.",
+      "properties": {        "district":"XIX",
         "type": "district",
         "type:hu": "járás",
         "ksh": "019",
@@ -4113,7 +4113,7 @@
     },
 	 {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XX.",
+      "properties": {        "district":"XX",
         "type": "district",
         "type:hu": "járás",
         "ksh": "020",
@@ -4235,7 +4235,7 @@
     },
 	 {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XXI.",
+      "properties": {        "district":"XXI",
         "type": "district",
         "type:hu": "járás",
         "ksh": "021",
@@ -4353,7 +4353,7 @@
     },
 	   {
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XXII.",
+      "properties": {        "district":"XXII",
         "type": "district",
         "type:hu": "járás",
         "ksh": "022",
@@ -4625,7 +4625,7 @@
     },
 	{
       "type": "Feature",
-      "properties": {        "district_2":"Budapest XXIII.",
+      "properties": {        "district":"XXIII",
         "type": "district",
         "type:hu": "járás",
         "ksh": "023",
